@@ -1,0 +1,3 @@
+rootProject.name='Test Notify'
+include ':app'
+include ':notifyme'
